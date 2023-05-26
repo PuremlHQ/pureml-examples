@@ -1,0 +1,9 @@
+pytorch_tabnet
+torch
+scikit-learn
+scikit-image
+numpy
+opencv-python
+pureml~=0.3.8
+xgboost
+pandas
