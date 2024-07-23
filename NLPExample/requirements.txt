@@ -1,0 +1,12 @@
+pure-eval==0.2.2
+pureml==0.3.8
+numpy==1.23.5
+pandas==1.5.3
+nltk==3.8.1
+scikit-learn==1.2.2
+tensorboard==2.12.3
+tensorboard-data-server==0.7.0
+tensorflow==2.12.0
+tensorflow-estimator==2.12.0
+tensorflow-io-gcs-filesystem==0.32.0
+keras==2.12.0
